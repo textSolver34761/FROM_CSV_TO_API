@@ -8,5 +8,4 @@ For the moment, only the GET methods are suppored.
 Be sure to download the required tools for the library to work: <br />
 <br />
 * requests>=2.25.1,
-* csv>=1.0,
 * Flask>=1.1.2
