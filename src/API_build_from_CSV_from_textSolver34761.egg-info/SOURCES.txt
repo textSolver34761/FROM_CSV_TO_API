@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-setup.cfg
-setup.py
-src/API_build_from_CSV_from_textSolver34761.egg-info/PKG-INFO
-src/API_build_from_CSV_from_textSolver34761.egg-info/SOURCES.txt
-src/API_build_from_CSV_from_textSolver34761.egg-info/dependency_links.txt
-src/API_build_from_CSV_from_textSolver34761.egg-info/top_level.txt
-src/package/__init__.py

@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="API_CSV",
+    name="APICSV",
     version="0.0.1",
     author="Benjamin Pradon",
     author_email="pradonbenjamin@gmail.com",
