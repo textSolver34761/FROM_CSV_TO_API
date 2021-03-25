@@ -11,9 +11,9 @@ setuptools.setup(
     description="This is how to get from a CSV file to an API",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/textSolver34761/from_csv_to_API",
     project_urls={
-        "Bug Tracker": "https://github.com/pypa/sampleproject/issues",
+        "Bug Tracker": "https://github.com/textSolver34761/from_csv_to_API/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
