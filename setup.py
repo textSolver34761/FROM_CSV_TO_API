@@ -4,8 +4,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="API build from CSV from textSolver34761",
-    version="1.0.0",
+    name="API_CSV",
+    version="0.0.1",
     author="Benjamin Pradon",
     author_email="pradonbenjamin@gmail.com",
     description="This is how to get from a CSV file to an API",
