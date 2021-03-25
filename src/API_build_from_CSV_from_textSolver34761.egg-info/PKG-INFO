@@ -1,5 +1,5 @@
 Metadata-Version: 2.1
-Name: API-build-from-CSV
+Name: API-build-from-CSV-from-textSolver34761
 Version: 1.0.0
 Summary: This is how to get from a CSV file to an API
 Home-page: https://github.com/textSolver34761/from_csv_to_API
@@ -17,10 +17,10 @@ Description: # From CSV file to API
         Be sure to download the required tools for the library to work: <br />
         <br />
         * requests>=2.25.1,
-        * csv>=1.0,
         * Flask>=1.1.2
 Platform: UNKNOWN
-Classifier: Development Status :: 4 - BetaProgramming Language :: Python :: 3
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: Microsoft :: Windows :: Windows 10
 Classifier: Intended Audience :: Education
