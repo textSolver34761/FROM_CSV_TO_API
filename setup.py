@@ -16,9 +16,11 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/textSolver34761/from_csv_to_API/issues",
     },
     classifiers=[
+        "Development Status :: 4 - Beta"
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: Windows 10",
+        "Operating System :: Microsoft :: Windows :: Windows 10",
+        "Intended Audience :: Education"
     ],
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
