@@ -3,7 +3,6 @@ requires = [
     "setuptools>=42",
     "wheel",
     "Flask>=1.1.2",
-    "requests>=2.25.1",
-    "csv>=1.0"
+    "requests>=2.25.1"
 ]
 build-backend = "setuptools.build_meta"
