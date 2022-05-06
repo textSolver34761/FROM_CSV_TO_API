@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: API-to-CSV
+Version: 0.0.1
+Summary: This is how to get from a CSV file to an API
+Home-page: https://github.com/textSolver34761/from_csv_to_API
+Author: 
+Author-email: 
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/textSolver34761/from_csv_to_API/issues
+Description: # From CSV file to API
+        
+        This is a way to build a GET API from a CSV file. <br />
+        <br />
+        For the moment, only the GET methods are suppored.
+        <br />
+        <br />
+        Be sure to download the required tools for the library to work: <br />
+        <br />
+        * requests>=2.25.1,
+        * Flask>=1.1.2
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Intended Audience :: Education
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown

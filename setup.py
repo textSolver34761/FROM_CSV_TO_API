@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name="API_to_CSV",
     version="0.0.1",
-    author="Benjamin Pradon",
-    author_email="pradonbenjamin@gmail.com",
+    author="",
+    author_email="",
     description="This is how to get from a CSV file to an API",
     long_description=long_description,
     long_description_content_type="text/markdown",

@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/API_to_CSV/__init__.py
+src/API_to_CSV.egg-info/PKG-INFO
+src/API_to_CSV.egg-info/SOURCES.txt
+src/API_to_CSV.egg-info/dependency_links.txt
+src/API_to_CSV.egg-info/top_level.txt
